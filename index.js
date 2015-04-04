@@ -3,6 +3,7 @@ var math = require('mathjs')
 var BlinkDiff = require("blink-diff")
 var moment = require("moment")
 var _ = require("underscore")
+_.mixin(require("./underscore-mixins-learn"))
 var path = require("path")
 var Promise = require('bluebird')
 var cv = require("opencv")
@@ -60,12 +61,18 @@ MongoDB.connectAsync(process.env.MONGO_URL).then(function(_db){
       data.diff = diff
       data.date = new Date()
       debug("just finished processing %s with a diff of %s", data.type,  data.diff)
-      return collection.insertAsync(data).then(function(){
-        return diff
+      return collection.insertAsync(data).then(function(insertResponse){
+        data.insertResponse = insertResponse
+        return data
       })
     })
-  }).then(function(diffs){
+  }).then(function(data){
+    var diffs = _.pluck(data, "diff")
+    var sorted = _.sortBy(data, "diff")
     debug("this run had an average of %s", _.average(diffs))
+    _.each(sorted, function(set){
+      debug("ranked %s with %s", set.type, set.diff)
+    })
   })
 }).then(function(){
   db.close()

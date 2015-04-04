@@ -1,0 +1,152 @@
+![run6](./run6.gif)
+
+```
+machine-learning about to process 73 different settings
+machine-learning just finished processing random with a diff of 473283
+machine-learning just finished processing twentyPercentAverageVaraitionFiveRadiusRandomPropsCANNY_THRESH_2 with a diff of 446853
+machine-learning just finished processing tenPercentAverageVaraitionFiveRadiusRandomPropsCANNY_THRESH_1 with a diff of 358625
+machine-learning just finished processing topVaraitionFiveRadiusRandomPropsCANNY_THRESH_2 with a diff of 333166
+machine-learning just finished processing fivePercentAverageRandomPropsCANNY_THRESH_2 with a diff of 339976
+machine-learning just finished processing fivePercentAverageVaraitionTenRadiusRandomPropsCANNY_THRESH_2 with a diff of 315826
+machine-learning just finished processing tenPercentAverageVaraitionTenRadiusRandomPropsCANNY_THRESH_2 with a diff of 242273
+machine-learning just finished processing topRandomPropsCANNY_THRESH_2 with a diff of 213972
+machine-learning just finished processing twentyPercentAverageVaraitionFiveRadiusRandomPropsCANNY_THRESH_1 with a diff of 215899
+machine-learning just finished processing topVaraitionFiveRadiusRandomPropsCANNY_THRESH_1 with a diff of 203835
+machine-learning just finished processing tenPercentAverageVaraitionFiveRadiusRandomPropsCANNY_THRESH_2 with a diff of 181616
+machine-learning just finished processing fivePercentAverageVaraitionFiveRadiusRandomPropsCANNY_THRESH_1 with a diff of 161471
+machine-learning just finished processing topVaraitionTenRadiusRandomPropsCANNY_THRESH_1 with a diff of 155694
+machine-learning just finished processing fivePercentAverageRandomPropsCANNY_THRESH_1 with a diff of 151436
+machine-learning just finished processing topVaraitionFiveRadiusRandomPropsHOUGH_3 with a diff of 148956
+machine-learning just finished processing fivePercentAverageVaraitionFiveRadiusRandomPropsCANNY_THRESH_2 with a diff of 146527
+machine-learning just finished processing twentyPercentAverageVaraitionFiveRadiusRandomPropsHOUGH_3 with a diff of 137474
+machine-learning just finished processing twentyPercentAverageVaraitionFiveRadius with a diff of 139556
+machine-learning just finished processing tenPercentAverageRandomPropsCANNY_THRESH_1 with a diff of 145106
+machine-learning just finished processing twentyPercentAverageVaraitionTenRadiusRandomPropsCANNY_THRESH_2 with a diff of 147094
+machine-learning just finished processing twentyPercentAverageVaraitionFiveRadiusRandomPropsHOUGH_1 with a diff of 139556
+machine-learning just finished processing twentyPercentAverageVaraitionFiveRadiusRandomPropsHOUGH_2 with a diff of 137187
+machine-learning just finished processing topVaraitionTenRadiusRandomPropsCANNY_THRESH_2 with a diff of 140606
+machine-learning just finished processing tenPercentAverageVaraitionFiveRadiusRandomPropsHOUGH_3 with a diff of 137481
+machine-learning just finished processing tenPercentAverageVaraitionFiveRadius with a diff of 137130
+machine-learning just finished processing tenPercentAverageVaraitionFiveRadiusRandomPropsHOUGH_1 with a diff of 137130
+machine-learning just finished processing twentyPercentAverageVaraitionTenRadiusRandomPropsCANNY_THRESH_1 with a diff of 140025
+machine-learning just finished processing tenPercentAverageVaraitionFiveRadiusRandomPropsHOUGH_2 with a diff of 134202
+machine-learning just finished processing topVaraitionFiveRadiusRandomPropsHOUGH_1 with a diff of 130704
+machine-learning just finished processing topVaraitionTenRadiusRandomPropsHOUGH_3 with a diff of 148354
+machine-learning just finished processing tenPercentAverageRandomPropsHOUGH_3 with a diff of 151820
+machine-learning just finished processing fivePercentAverageRandomPropsHOUGH_3 with a diff of 127487
+machine-learning just finished processing tenPercentAverageRandomPropsCANNY_THRESH_2 with a diff of 127330
+machine-learning just finished processing tenPercentAverageVaraitionTenRadiusRandomPropsHOUGH_3 with a diff of 124744
+machine-learning just finished processing fivePercentAverageVaraitionTenRadiusRandomPropsCANNY_THRESH_1 with a diff of 129402
+machine-learning just finished processing fivePercentAverage with a diff of 121237
+machine-learning just finished processing tenPercentAverageVaraitionTenRadiusRandomPropsCANNY_THRESH_1 with a diff of 121069
+machine-learning just finished processing tenPercentAverageVaraitionTenRadiusRandomPropsHOUGH_1 with a diff of 120895
+machine-learning just finished processing tenPercentAverageVaraitionTenRadius with a diff of 115979
+machine-learning just finished processing topVaraitionTenRadius with a diff of 118384
+machine-learning just finished processing twentyPercentAverageRandomPropsHOUGH_1 with a diff of 117846
+machine-learning just finished processing tenPercentAverage with a diff of 119626
+machine-learning just finished processing tenPercentAverageRandomPropsHOUGH_1 with a diff of 119626
+machine-learning just finished processing fivePercentAverageRandomPropsHOUGH_1 with a diff of 114917
+machine-learning just finished processing fivePercentAverageRandomPropsHOUGH_2 with a diff of 122631
+machine-learning just finished processing twentyPercentAverageVaraitionTenRadiusRandomPropsHOUGH_1 with a diff of 120684
+machine-learning just finished processing fivePercentAverageVaraitionFiveRadius with a diff of 119479
+machine-learning just finished processing fivePercentAverageVaraitionFiveRadiusRandomPropsHOUGH_1 with a diff of 119479
+machine-learning just finished processing fivePercentAverageVaraitionFiveRadiusRandomPropsHOUGH_3 with a diff of 116166
+machine-learning just finished processing tenPercentAverageVaraitionTenRadiusRandomPropsHOUGH_2 with a diff of 116317
+machine-learning just finished processing topVaraitionTenRadiusRandomPropsHOUGH_2 with a diff of 116024
+machine-learning just finished processing topRandomPropsHOUGH_3 with a diff of 115441
+machine-learning just finished processing topRandomPropsCANNY_THRESH_1 with a diff of 110705
+machine-learning just finished processing fivePercentAverageVaraitionFiveRadiusRandomPropsHOUGH_2 with a diff of 116094
+machine-learning just finished processing fivePercentAverageVaraitionTenRadius with a diff of 111775
+machine-learning just finished processing topRandomPropsHOUGH_1 with a diff of 111330
+machine-learning just finished processing tenPercentAverageRandomPropsHOUGH_2 with a diff of 114424
+machine-learning just finished processing fivePercentAverageVaraitionTenRadiusRandomPropsHOUGH_1 with a diff of 111775
+machine-learning just finished processing fivePercentAverageVaraitionTenRadiusRandomPropsHOUGH_2 with a diff of 111947
+machine-learning just finished processing twentyPercentAverageVaraitionTenRadiusRandomPropsHOUGH_3 with a diff of 112903
+machine-learning just finished processing fivePercentAverageVaraitionTenRadiusRandomPropsHOUGH_3 with a diff of 112970
+machine-learning just finished processing topVaraitionFiveRadiusRandomPropsHOUGH_2 with a diff of 108848
+machine-learning just finished processing topVaraitionFiveRadius with a diff of 105817
+machine-learning just finished processing twentyPercentAverageRandomPropsCANNY_THRESH_1 with a diff of 96815
+machine-learning just finished processing twentyPercentAverageVaraitionTenRadius with a diff of 98260
+machine-learning just finished processing topVaraitionTenRadiusRandomPropsHOUGH_1 with a diff of 94231
+machine-learning just finished processing twentyPercentAverageRandomPropsHOUGH_3 with a diff of 95160
+machine-learning just finished processing twentyPercentAverage with a diff of 86722
+machine-learning just finished processing twentyPercentAverageVaraitionTenRadiusRandomPropsHOUGH_2 with a diff of 88629
+machine-learning just finished processing twentyPercentAverageRandomPropsCANNY_THRESH_2 with a diff of 86722
+machine-learning just finished processing twentyPercentAverageRandomPropsHOUGH_2 with a diff of 81453
+machine-learning just finished processing top with a diff of 79610
+machine-learning just finished processing topRandomPropsHOUGH_2 with a diff of 83332
+machine-learning this run had an average of 148453.67123287672
+machine-learning ranked top with 79610 +0ms
+machine-learning ranked twentyPercentAverageRandomPropsHOUGH_2 with 81453 +3ms
+machine-learning ranked topRandomPropsHOUGH_2 with 83332 +2ms
+machine-learning ranked twentyPercentAverage with 86722 +0ms
+machine-learning ranked twentyPercentAverageRandomPropsCANNY_THRESH_2 with 86722 +1ms
+machine-learning ranked twentyPercentAverageVaraitionTenRadiusRandomPropsHOUGH_2 with 88629 +0ms
+machine-learning ranked topVaraitionTenRadiusRandomPropsHOUGH_1 with 94231 +0ms
+machine-learning ranked twentyPercentAverageRandomPropsHOUGH_3 with 95160 +0ms
+machine-learning ranked twentyPercentAverageRandomPropsCANNY_THRESH_1 with 96815 +0ms
+machine-learning ranked twentyPercentAverageVaraitionTenRadius with 98260 +0ms
+machine-learning ranked topVaraitionFiveRadius with 105817 +0ms
+machine-learning ranked topVaraitionFiveRadiusRandomPropsHOUGH_2 with 108848 +0ms
+machine-learning ranked topRandomPropsCANNY_THRESH_1 with 110705 +0ms
+machine-learning ranked topRandomPropsHOUGH_1 with 111330 +0ms
+machine-learning ranked fivePercentAverageVaraitionTenRadius with 111775 +0ms
+machine-learning ranked fivePercentAverageVaraitionTenRadiusRandomPropsHOUGH_1 with 111775 +0ms
+machine-learning ranked fivePercentAverageVaraitionTenRadiusRandomPropsHOUGH_2 with 111947 +0ms
+machine-learning ranked twentyPercentAverageVaraitionTenRadiusRandomPropsHOUGH_3 with 112903 +0ms
+machine-learning ranked fivePercentAverageVaraitionTenRadiusRandomPropsHOUGH_3 with 112970 +1ms
+machine-learning ranked tenPercentAverageRandomPropsHOUGH_2 with 114424 +0ms
+machine-learning ranked fivePercentAverageRandomPropsHOUGH_1 with 114917 +0ms
+machine-learning ranked topRandomPropsHOUGH_3 with 115441 +0ms
+machine-learning ranked tenPercentAverageVaraitionTenRadius with 115979 +0ms
+machine-learning ranked topVaraitionTenRadiusRandomPropsHOUGH_2 with 116024 +0ms
+machine-learning ranked fivePercentAverageVaraitionFiveRadiusRandomPropsHOUGH_2 with 116094 +0ms
+machine-learning ranked fivePercentAverageVaraitionFiveRadiusRandomPropsHOUGH_3 with 116166 +0ms
+machine-learning ranked tenPercentAverageVaraitionTenRadiusRandomPropsHOUGH_2 with 116317 +0ms
+machine-learning ranked twentyPercentAverageRandomPropsHOUGH_1 with 117846 +0ms
+machine-learning ranked topVaraitionTenRadius with 118384 +0ms
+machine-learning ranked fivePercentAverageVaraitionFiveRadius with 119479 +0ms
+machine-learning ranked fivePercentAverageVaraitionFiveRadiusRandomPropsHOUGH_1 with 119479 +0ms
+machine-learning ranked tenPercentAverage with 119626 +0ms
+machine-learning ranked tenPercentAverageRandomPropsHOUGH_1 with 119626 +0ms
+machine-learning ranked twentyPercentAverageVaraitionTenRadiusRandomPropsHOUGH_1 with 120684 +0ms
+machine-learning ranked tenPercentAverageVaraitionTenRadiusRandomPropsHOUGH_1 with 120895 +1ms
+machine-learning ranked tenPercentAverageVaraitionTenRadiusRandomPropsCANNY_THRESH_1 with 121069 +0ms
+machine-learning ranked fivePercentAverage with 121237 +0ms
+machine-learning ranked fivePercentAverageRandomPropsHOUGH_2 with 122631 +0ms
+machine-learning ranked tenPercentAverageVaraitionTenRadiusRandomPropsHOUGH_3 with 124744 +0ms
+machine-learning ranked tenPercentAverageRandomPropsCANNY_THRESH_2 with 127330 +0ms
+machine-learning ranked fivePercentAverageRandomPropsHOUGH_3 with 127487 +0ms
+machine-learning ranked fivePercentAverageVaraitionTenRadiusRandomPropsCANNY_THRESH_1 with 129402 +0ms
+machine-learning ranked topVaraitionFiveRadiusRandomPropsHOUGH_1 with 130704 +0ms
+machine-learning ranked tenPercentAverageVaraitionFiveRadiusRandomPropsHOUGH_2 with 134202 +0ms
+machine-learning ranked tenPercentAverageVaraitionFiveRadius with 137130 +0ms
+machine-learning ranked tenPercentAverageVaraitionFiveRadiusRandomPropsHOUGH_1 with 137130 +0ms
+machine-learning ranked twentyPercentAverageVaraitionFiveRadiusRandomPropsHOUGH_2 with 137187 +0ms
+machine-learning ranked twentyPercentAverageVaraitionFiveRadiusRandomPropsHOUGH_3 with 137474 +0ms
+machine-learning ranked tenPercentAverageVaraitionFiveRadiusRandomPropsHOUGH_3 with 137481 +1ms
+machine-learning ranked twentyPercentAverageVaraitionFiveRadius with 139556 +0ms
+machine-learning ranked twentyPercentAverageVaraitionFiveRadiusRandomPropsHOUGH_1 with 139556 +0ms
+machine-learning ranked twentyPercentAverageVaraitionTenRadiusRandomPropsCANNY_THRESH_1 with 140025 +0ms
+machine-learning ranked topVaraitionTenRadiusRandomPropsCANNY_THRESH_2 with 140606 +0ms
+machine-learning ranked tenPercentAverageRandomPropsCANNY_THRESH_1 with 145106 +0ms
+machine-learning ranked fivePercentAverageVaraitionFiveRadiusRandomPropsCANNY_THRESH_2 with 146527 +0ms
+machine-learning ranked twentyPercentAverageVaraitionTenRadiusRandomPropsCANNY_THRESH_2 with 147094 +0ms
+machine-learning ranked topVaraitionTenRadiusRandomPropsHOUGH_3 with 148354 +0ms
+machine-learning ranked topVaraitionFiveRadiusRandomPropsHOUGH_3 with 148956 +0ms
+machine-learning ranked fivePercentAverageRandomPropsCANNY_THRESH_1 with 151436 +0ms
+machine-learning ranked tenPercentAverageRandomPropsHOUGH_3 with 151820 +0ms
+machine-learning ranked topVaraitionTenRadiusRandomPropsCANNY_THRESH_1 with 155694 +0ms
+machine-learning ranked fivePercentAverageVaraitionFiveRadiusRandomPropsCANNY_THRESH_1 with 161471 +0ms
+machine-learning ranked tenPercentAverageVaraitionFiveRadiusRandomPropsCANNY_THRESH_2 with 181616 +1ms
+machine-learning ranked topVaraitionFiveRadiusRandomPropsCANNY_THRESH_1 with 203835 +0ms
+machine-learning ranked topRandomPropsCANNY_THRESH_2 with 213972 +0ms
+machine-learning ranked twentyPercentAverageVaraitionFiveRadiusRandomPropsCANNY_THRESH_1 with 215899 +0ms
+machine-learning ranked tenPercentAverageVaraitionTenRadiusRandomPropsCANNY_THRESH_2 with 242273 +0ms
+machine-learning ranked fivePercentAverageVaraitionTenRadiusRandomPropsCANNY_THRESH_2 with 315826 +0ms
+machine-learning ranked topVaraitionFiveRadiusRandomPropsCANNY_THRESH_2 with 333166 +0ms
+machine-learning ranked fivePercentAverageRandomPropsCANNY_THRESH_2 with 339976 +0ms
+machine-learning ranked tenPercentAverageVaraitionFiveRadiusRandomPropsCANNY_THRESH_1 with 358625 +0ms
+machine-learning ranked twentyPercentAverageVaraitionFiveRadiusRandomPropsCANNY_THRESH_2 with 446853 +0ms
+machine-learning ranked random with 473283 +0ms
+```
