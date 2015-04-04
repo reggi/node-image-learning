@@ -21,7 +21,7 @@ DEBUG_FD=3 DEBUG=* MONGO_URL=mongodb://localhost:27017/image node index.js 3> ./
 cd ./images-generated
 sips -Z 700 *.png && convert -fuzz 1.6% -loop 0 *.png -layers OptimizePlus -layers OptimizeTransparency Almost.gif && gifsicle -O3 --colors 256 Almost.gif > Done.gif
 cd ../documenting
-RUN_NUM=$(ls | sort | tail -n 1 | tr -dc '[0-9]')
+RUN_NUM=$(ls -1 | sort -n -k1.4 | tail -n 1 | sed 's/[^0-9]//g')
 RUN_NUM=$((10#$RUN_NUM+1))
 mv "../images-generated/Done.gif" "./run"$RUN_NUM".gif"
 (echo '![run'$RUN_NUM'](./run'$RUN_NUM'.gif)' && echo && echo "\`\`\`" && cat ../temp.txt && echo "\`\`\`") > 'run'$RUN_NUM'.md'

@@ -6,7 +6,7 @@
   "scripts": {
     "start": "sh ./compile-run.sh",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "loop": "for n in {1..5}; do echo 'I WILL NOT SKATEBOARD IN THE HALLS'; done" 
+    "loop": "for n in {1..3}; do npm start; done"
   },
   "author": "Thomas Reggi",
   "license": "ISC",
