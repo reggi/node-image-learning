@@ -1,6 +1,14 @@
 # Node Image Recognition / Machine Learning
 
-> This whole project is an effort to convert the output from [open cv](../documenting/run1.gif) into an image that looks [like this](../images-raw/desired.png).
+This program is an attempt to learn the best arguments to set into OpenCV to get the output that open OpenCV spits out:
+
+![output from open cv](./documenting/run1.gif)
+
+To look like this, my desired result:
+
+![like this](./images-raw/desired.jpg)
+
+## Summary
 
 I have a project in mind that would allow me to get book titles from an image of books on a bookshelf. This broad project is two fold.
 
@@ -39,4 +47,6 @@ The next goal was to randomly generate the arguments above and save the results 
 
 There's a ton of these I can come up with, I think I can always keep coming up with new way to iterate over the "best" scores, I think it's important to throw the kitchen sink in and let them all mingle.
 
-> Todo: I think it's important to save the method / function / algorithm used to generate the numbers, that way it can be slightly bias to the methods that continuously do better.
+> Todo (done): I think it's important to save the method / function / algorithm used to generate the numbers, that way it can be slightly bias to the methods that continuously do better.
+
+All of these options are now being generated in [`machine-learning-options.js`](./machine-learning-options.js), and their rankings are all present within each run.
