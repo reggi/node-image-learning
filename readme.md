@@ -1,5 +1,7 @@
 # Node Image Recognition / Machine Learning
 
+> This whole project is an effort to convert the output from [open cv](../documenting/run1.gif) into an image that looks [like this](../images-raw/desired.png).
+
 I have a project in mind that would allow me to get book titles from an image of books on a bookshelf. This broad project is two fold.
 
 1. Capturing the book spines
