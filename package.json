@@ -4,6 +4,7 @@
   "description": "I have a project in mind that would allow me to get book titles from an image of books on a bookshelf. This broad project is two fold.",
   "main": "index.js",
   "scripts": {
+    "start": "sh ./compile-run.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Thomas Reggi",
