@@ -1,4 +1,5 @@
 node_modules
 images-generated
+images-best
 temp.txt
 .env

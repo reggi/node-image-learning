@@ -21,7 +21,7 @@ module.exports = {
     }
   },
   HOUGH_2: {
-    min: 0,
+    min: 1, // can't be 1 or else will be PI
     max: 360,
     pre: function(number){
       return Math.ceil(Math.PI / number)

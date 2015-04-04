@@ -12,6 +12,7 @@ module.exports = function(docs){
 
   docs = _.chain(docs).filter(function(doc){
     if(doc.diff == 69016) return false
+    if(doc.HOUGH_2 == 3.141592653589793) return false
     return doc
   }).sortBy("diff").value()
 
